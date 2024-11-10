@@ -1,7 +1,7 @@
 
 function promptExample(){
     let dice = Math.floor(Math.random() *6) + 1
-    test =  document.getElementById('ice').innerText = prompt("Guess again")
+    test =  document.getElementById('tree').innerText = prompt("Guess again")
    
 
 
